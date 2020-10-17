@@ -6,6 +6,7 @@ Estados
 "" = vazio
 0 = morto
 1 = vivo
+teste
 """
 matriz_partida = [[1, 1, 1], [1, "", ""], ['', 1, ""]]
 nova_geracao = [['', '', ''], ['', '', ''], ['', '', '']]
